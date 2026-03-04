@@ -1,9 +1,12 @@
 # 📊 A/B Testing Case Study
 ### Evaluating the Impact of Paid Advertisements on Conversion
-Python Code :-  [https://www.kaggle.com/code/parveenkumarsharma/a-b-testing](url)
+## Project Links
 
-Data        :- [https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing](url)
+- **Kaggle Notebook:**  
+  https://www.kaggle.com/code/parveenkumarsharma/a-b-testing
 
+- **Dataset:**  
+  https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing
 ---
 
 ## Table of Contents
