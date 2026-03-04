@@ -332,6 +332,7 @@ True Revenue Impact = $434,200 × 3 = $1.3M
 # Exposure & Frequency Analysis
 
 ## Chart 1 — Decile Analysis (Exposure Segmentation)
+<img width="576" height="455" alt="image" src="https://github.com/user-attachments/assets/59441555-8ae7-42ba-97e3-89144e7431e7" />
 
 **What the data shows:**
 - Conversion rate increases steadily with ad exposure
@@ -358,6 +359,7 @@ True Revenue Impact = $434,200 × 3 = $1.3M
 **Interpretation:**
 
 This is a classic **diminishing marginal returns** pattern:
+<img width="576" height="455" alt="image" src="https://github.com/user-attachments/assets/24dd3f60-c07a-47f6-894e-aeb564ae5483" />
 
 | Exposure Range | Effect |
 |----------------|--------|
@@ -370,6 +372,7 @@ This is a classic **diminishing marginal returns** pattern:
 ---
 
 ## Chart 3 — Cumulative Lift Curve
+<img width="584" height="455" alt="image" src="https://github.com/user-attachments/assets/b0942f9b-e1e0-4b85-bcfa-525bb52f5a85" />
 
 **What the data shows:**
 - Rapid cumulative conversion growth in early exposure
